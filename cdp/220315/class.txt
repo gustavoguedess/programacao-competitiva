@@ -1,0 +1,21 @@
+uva10189: 
+    Facilita e evita erro fazer uma lista de direções que vai ser checado na matriz
+    
+    * * *
+    * . *
+    * * *
+    Para checar essa lista 
+
+
+bee1482: 
+    Bitmask é uma máscara de Bits que filtra somente as posições desejadas
+    Exemplo
+    Mask:   00001111b
+    Value:  01010101b
+    Result: 00000101b
+
+bee1494:
+    Estudar PD
+
+bee optimal knights:
+    Backtracking
