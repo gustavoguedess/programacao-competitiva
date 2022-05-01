@@ -14,4 +14,5 @@ int main(){
     r=0;
     for(int i=1; acm>0; acm-=i,r++, i++);
     printf("%d\n", r);
+    return 0;
 }
